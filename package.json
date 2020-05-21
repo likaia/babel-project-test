@@ -1,0 +1,13 @@
+{
+  "name": "babel-project-test",
+  "version": "1.0.0",
+  "description": "使用yarn仓库的包，使用babel将ES6转为ES5供node运行",
+  "main": "index.js",
+  "author": "likai",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "ramda": "^0.27.0"
+  }
+}
